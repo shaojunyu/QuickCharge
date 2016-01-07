@@ -1,0 +1,12 @@
+D:\visual studio\打印店快捷支付\打印店快捷支付\bin\Debug\打印店快捷支付.exe
+D:\visual studio\打印店快捷支付\打印店快捷支付\bin\Debug\打印店快捷支付.pdb
+D:\visual studio\打印店快捷支付\打印店快捷支付\obj\Debug\打印店快捷支付.csprojResolveAssemblyReference.cache
+D:\visual studio\打印店快捷支付\打印店快捷支付\obj\Debug\打印店快捷支付.Properties.Resources.resources
+D:\visual studio\打印店快捷支付\打印店快捷支付\obj\Debug\打印店快捷支付.csproj.GenerateResource.Cache
+D:\visual studio\打印店快捷支付\打印店快捷支付\obj\Debug\打印店快捷支付.exe
+D:\visual studio\打印店快捷支付\打印店快捷支付\obj\Debug\打印店快捷支付.pdb
+D:\visual studio\打印店快捷支付\打印店快捷支付\bin\Debug\Newtonsoft.Json.dll
+D:\visual studio\打印店快捷支付\打印店快捷支付\bin\Debug\pingpp.dll
+D:\visual studio\打印店快捷支付\打印店快捷支付\obj\Debug\打印店快捷支付.Form1.resources
+D:\visual studio\打印店快捷支付\打印店快捷支付\bin\Debug\Bmob-Windows.dll
+D:\visual studio\打印店快捷支付\打印店快捷支付\obj\Debug\打印店快捷支付.Form2.resources
